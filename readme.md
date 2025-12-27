@@ -1,8 +1,8 @@
 # Setup Golang
 
-mkdir todo_app
-cd todo_app
-go mod init todo_app
+- mkdir todo_app
+- cd todo_app
+- go mod init todo_app
 
 ## Install Dependencies
 
@@ -15,4 +15,5 @@ Install semua dependencies yang diperlukan :
 - go get -u golang.org/x/crypto/bcrypt
 
 Untuk menjalankan aplikasi :
-go run main.go
+- go run main.go
+
